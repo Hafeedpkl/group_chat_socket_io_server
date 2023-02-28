@@ -1,0 +1,17 @@
+{
+  "name": "group_flutter_socket_io_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.6.1"
+  }
+}
